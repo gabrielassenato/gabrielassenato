@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou Gabriel Assenato</h1>
 <h3 align="center">Um estudante de ADS e desenvolvedor Front-End de Porto Alegre</h3>
 
-- 🌱 Estou aprendendo **HTML, CSS, JavaScript, Java**
+- 🌱 Estou aprendendo **HTML, CSS, JavaScript e Java**
 
 - 📫 Como entrar em contato: **gabrielassenato@gmail.com**
 
 - ⚡ Fato engraçado: **Além de programador eu também sou tatuador 😄**
 
-<h3 align="left">Fale comigo:</h3>
+<h3 align="left">Me encontre em:</h3>
 <p align="left">
 <a href="https://dev.to/gabrielassenato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gabrielassenato" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabriel-assenato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-assenato" height="30" width="40" /></a>

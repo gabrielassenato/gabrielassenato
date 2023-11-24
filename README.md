@@ -5,7 +5,6 @@
 
 - 📫 Como entrar em contato: **gabrielassenato@gmail.com**
 
-- ⚡ Fato engraçado: **Além de programador eu também sou tatuador 😄**
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">

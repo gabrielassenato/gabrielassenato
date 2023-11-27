@@ -1,3 +1,5 @@
+<img src="https://github.com/gabrielassenato/gabrielassenato/blob/main/kisspng-computer-programming-web-development-computer-soft-coder-5ac6d6012fdda4.9202230715229803531961.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <h1 align="center">Olá 👋, Eu sou Gabriel Assenato</h1>
 <h3 align="center">Um estudante de ADS e desenvolvedor Front-End de Porto Alegre</h3>
 

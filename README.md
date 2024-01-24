@@ -22,8 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielassenato&theme=highcontrast&rank_icon=github&show_icons=true&locale=en" alt="gabrielassenato" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielassenato&theme=highcontrast&" alt="gabrielassenato" /></p>
-
 <!--
 **gabrielassenato/gabrielassenato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

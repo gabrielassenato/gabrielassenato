@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gabriel Assenato 👋</h1>
 <h3 align="center">Desenvolvedor Full Stack Java</h3>
 
-- 🌱 Estou aprendendo **HTML, CSS, JavaScript e Java**
+- 🌱 Estou aprendendo tecnicas de **Front-End e Back-End**
 
 - 📫 Como entrar em contato: **gabrielassenato@gmail.com**
 
